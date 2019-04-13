@@ -1,0 +1,181 @@
+C:\Users\acer-pc\Google Drive\SysProg\TicketOffice\bin\Debug\WindowsFormsApplication1.exe.config
+B:\Google drive-sysprog\TicketOffice\bin\Debug\WindowsFormsApplication1.exe.config
+B:\Google drive-sysprog\TicketOffice\bin\Debug\WindowsFormsApplication1.exe
+B:\Google drive-sysprog\TicketOffice\bin\Debug\WindowsFormsApplication1.pdb
+B:\Google drive-sysprog\TicketOffice\obj\Debug\TIcketOffice.csprojResolveAssemblyReference.cache
+B:\Google drive-sysprog\TicketOffice\obj\Debug\TicketOffice.Ticket.resources
+B:\Google drive-sysprog\TicketOffice\obj\Debug\TicketOffice.TicketMachine.resources
+B:\Google drive-sysprog\TicketOffice\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+B:\Google drive-sysprog\TicketOffice\obj\Debug\TIcketOffice.csproj.GenerateResource.Cache
+B:\Google drive-sysprog\TicketOffice\obj\Debug\WindowsFormsApplication1.exe
+B:\Google drive-sysprog\TicketOffice\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Hernan\Desktop\Lottery_Newest\TicketOffice\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Hernan\Desktop\Lottery_Newest\TicketOffice\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Hernan\Desktop\Lottery_Newest\TicketOffice\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Hernan\Desktop\Lottery_Newest\TicketOffice\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Hernan\Desktop\Lottery_Newest\TicketOffice\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Hernan\Desktop\Lottery_Newest\TicketOffice\obj\Debug\TIcketOffice.csprojResolveAssemblyReference.cache
+C:\Users\Hernan\Desktop\Lottery_Newest\TicketOffice\obj\Debug\TicketOffice.Ticket.resources
+C:\Users\Hernan\Desktop\Lottery_Newest\TicketOffice\obj\Debug\TicketOffice.TicketMachine.resources
+C:\Users\Hernan\Desktop\Lottery_Newest\TicketOffice\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Hernan\Desktop\Lottery_Newest\TicketOffice\obj\Debug\TIcketOffice.csproj.GenerateResource.Cache
+C:\Users\Hernan\OneDrive\Greenwich\VisulaStudio\Lottery_Newest1\TicketOffice\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Hernan\OneDrive\Greenwich\VisulaStudio\Lottery_Newest1\TicketOffice\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Hernan\OneDrive\Greenwich\VisulaStudio\Lottery_Newest1\TicketOffice\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Hernan\OneDrive\Greenwich\VisulaStudio\Lottery_Newest1\TicketOffice\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Hernan\OneDrive\Greenwich\VisulaStudio\Lottery_Newest1\TicketOffice\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Hernan\OneDrive\Greenwich\VisulaStudio\Lottery_Newest1\TicketOffice\obj\Debug\TIcketOffice.csprojResolveAssemblyReference.cache
+C:\Users\Hernan\OneDrive\Greenwich\VisulaStudio\Lottery_Newest1\TicketOffice\obj\Debug\TicketOffice.Ticket.resources
+C:\Users\Hernan\OneDrive\Greenwich\VisulaStudio\Lottery_Newest1\TicketOffice\obj\Debug\TicketOffice.TicketMachine.resources
+C:\Users\Hernan\OneDrive\Greenwich\VisulaStudio\Lottery_Newest1\TicketOffice\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Hernan\OneDrive\Greenwich\VisulaStudio\Lottery_Newest1\TicketOffice\obj\Debug\TIcketOffice.csproj.GenerateResource.Cache
+G:\Lottery_Newest1\TicketOffice\bin\Debug\WindowsFormsApplication1.exe.config
+G:\Lottery_Newest1\TicketOffice\obj\Debug\WindowsFormsApplication1.exe
+G:\Lottery_Newest1\TicketOffice\obj\Debug\WindowsFormsApplication1.pdb
+G:\Lottery_Newest1\TicketOffice\bin\Debug\WindowsFormsApplication1.exe
+G:\Lottery_Newest1\TicketOffice\bin\Debug\WindowsFormsApplication1.pdb
+G:\Lottery_Newest1\TicketOffice\obj\Debug\TIcketOffice.csprojResolveAssemblyReference.cache
+G:\Lottery_Newest1\TicketOffice\obj\Debug\TicketOffice.Ticket.resources
+G:\Lottery_Newest1\TicketOffice\obj\Debug\TicketOffice.TicketMachine.resources
+G:\Lottery_Newest1\TicketOffice\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+G:\Lottery_Newest1\TicketOffice\obj\Debug\TIcketOffice.csproj.GenerateResource.Cache
+G:\Lottery_Newest1_1\TicketOffice\bin\Debug\WindowsFormsApplication1.exe.config
+G:\Lottery_Newest1_1\TicketOffice\obj\Debug\WindowsFormsApplication1.exe
+G:\Lottery_Newest1_1\TicketOffice\obj\Debug\WindowsFormsApplication1.pdb
+G:\Lottery_Newest1_1\TicketOffice\bin\Debug\WindowsFormsApplication1.exe
+G:\Lottery_Newest1_1\TicketOffice\bin\Debug\WindowsFormsApplication1.pdb
+G:\Lottery_Newest1_1\TicketOffice\obj\Debug\TIcketOffice.csprojResolveAssemblyReference.cache
+G:\Lottery_Newest1_1\TicketOffice\obj\Debug\TicketOffice.Ticket.resources
+G:\Lottery_Newest1_1\TicketOffice\obj\Debug\TicketOffice.TicketMachine.resources
+G:\Lottery_Newest1_1\TicketOffice\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+G:\Lottery_Newest1_1\TicketOffice\obj\Debug\TIcketOffice.csproj.GenerateResource.Cache
+G:\Lottery_Newest1_2\TicketOffice\bin\Debug\WindowsFormsApplication1.exe.config
+G:\Lottery_Newest1_2\TicketOffice\obj\Debug\WindowsFormsApplication1.exe
+G:\Lottery_Newest1_2\TicketOffice\obj\Debug\WindowsFormsApplication1.pdb
+G:\Lottery_Newest1_2\TicketOffice\bin\Debug\WindowsFormsApplication1.exe
+G:\Lottery_Newest1_2\TicketOffice\bin\Debug\WindowsFormsApplication1.pdb
+G:\Lottery_Newest1_2\TicketOffice\obj\Debug\TIcketOffice.csprojResolveAssemblyReference.cache
+G:\Lottery_Newest1_2\TicketOffice\obj\Debug\TicketOffice.Ticket.resources
+G:\Lottery_Newest1_2\TicketOffice\obj\Debug\TicketOffice.TicketMachine.resources
+G:\Lottery_Newest1_2\TicketOffice\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+G:\Lottery_Newest1_2\TicketOffice\obj\Debug\TIcketOffice.csproj.GenerateResource.Cache
+C:\Users\Hernan\Desktop\Lottery_Newest1_2\TicketOffice\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Hernan\Desktop\Lottery_Newest1_2\TicketOffice\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Hernan\Desktop\Lottery_Newest1_2\TicketOffice\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Hernan\Desktop\Lottery_Newest1_2\TicketOffice\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Hernan\Desktop\Lottery_Newest1_2\TicketOffice\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Hernan\Desktop\Lottery_Newest1_2\TicketOffice\obj\Debug\TIcketOffice.csprojResolveAssemblyReference.cache
+C:\Users\Hernan\Desktop\Lottery_Newest1_2\TicketOffice\obj\Debug\TicketOffice.Ticket.resources
+C:\Users\Hernan\Desktop\Lottery_Newest1_2\TicketOffice\obj\Debug\TicketOffice.TicketMachine.resources
+C:\Users\Hernan\Desktop\Lottery_Newest1_2\TicketOffice\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Hernan\Desktop\Lottery_Newest1_2\TicketOffice\obj\Debug\TIcketOffice.csproj.GenerateResource.Cache
+C:\Users\Hernan\Desktop\Lottery_Newest1_3\TicketOffice\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Hernan\Desktop\Lottery_Newest1_3\TicketOffice\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Hernan\Desktop\Lottery_Newest1_3\TicketOffice\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Hernan\Desktop\Lottery_Newest1_3\TicketOffice\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Hernan\Desktop\Lottery_Newest1_3\TicketOffice\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Hernan\Desktop\Lottery_Newest1_3\TicketOffice\obj\Debug\TIcketOffice.csprojResolveAssemblyReference.cache
+C:\Users\Hernan\Desktop\Lottery_Newest1_3\TicketOffice\obj\Debug\TicketOffice.Ticket.resources
+C:\Users\Hernan\Desktop\Lottery_Newest1_3\TicketOffice\obj\Debug\TicketOffice.TicketMachine.resources
+C:\Users\Hernan\Desktop\Lottery_Newest1_3\TicketOffice\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Hernan\Desktop\Lottery_Newest1_3\TicketOffice\obj\Debug\TIcketOffice.csproj.GenerateResource.Cache
+C:\Users\Hernan\Desktop\Lottery_Newest1_3_1\TicketOffice\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Hernan\Desktop\Lottery_Newest1_3_1\TicketOffice\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Hernan\Desktop\Lottery_Newest1_3_1\TicketOffice\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Hernan\Desktop\Lottery_Newest1_3_1\TicketOffice\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Hernan\Desktop\Lottery_Newest1_3_1\TicketOffice\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Hernan\Desktop\Lottery_Newest1_3_1\TicketOffice\obj\Debug\TIcketOffice.csprojResolveAssemblyReference.cache
+C:\Users\Hernan\Desktop\Lottery_Newest1_3_1\TicketOffice\obj\Debug\TicketOffice.Ticket.resources
+C:\Users\Hernan\Desktop\Lottery_Newest1_3_1\TicketOffice\obj\Debug\TicketOffice.TicketMachine.resources
+C:\Users\Hernan\Desktop\Lottery_Newest1_3_1\TicketOffice\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Hernan\Desktop\Lottery_Newest1_3_1\TicketOffice\obj\Debug\TIcketOffice.csproj.GenerateResource.Cache
+C:\Users\Hernan\Google Drive\SysProg\Lottery_Newest1_3_1\TicketOffice\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Hernan\Google Drive\SysProg\Lottery_Newest1_3_1\TicketOffice\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Hernan\Google Drive\SysProg\Lottery_Newest1_3_1\TicketOffice\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Hernan\Google Drive\SysProg\Lottery_Newest1_3_1\TicketOffice\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Hernan\Google Drive\SysProg\Lottery_Newest1_3_1\TicketOffice\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Hernan\Google Drive\SysProg\Lottery_Newest1_3_1\TicketOffice\obj\Debug\TIcketOffice.csprojResolveAssemblyReference.cache
+C:\Users\Hernan\Google Drive\SysProg\Lottery_Newest1_3_1\TicketOffice\obj\Debug\TicketOffice.Ticket.resources
+C:\Users\Hernan\Google Drive\SysProg\Lottery_Newest1_3_1\TicketOffice\obj\Debug\TicketOffice.TicketMachine.resources
+C:\Users\Hernan\Google Drive\SysProg\Lottery_Newest1_3_1\TicketOffice\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Hernan\Google Drive\SysProg\Lottery_Newest1_3_1\TicketOffice\obj\Debug\TIcketOffice.csproj.GenerateResource.Cache
+C:\Users\Hernan\Desktop\Lottery_Newest1_4_1\TicketOffice\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Hernan\Desktop\Lottery_Newest1_4_1\TicketOffice\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Hernan\Desktop\Lottery_Newest1_4_1\TicketOffice\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Hernan\Desktop\Lottery_Newest1_4_1\TicketOffice\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Hernan\Desktop\Lottery_Newest1_4_1\TicketOffice\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Hernan\Desktop\Lottery_Newest1_4_1\TicketOffice\obj\Debug\TIcketOffice.csprojResolveAssemblyReference.cache
+C:\Users\Hernan\Desktop\Lottery_Newest1_4_1\TicketOffice\obj\Debug\TicketOffice.Ticket.resources
+C:\Users\Hernan\Desktop\Lottery_Newest1_4_1\TicketOffice\obj\Debug\TicketOffice.TicketMachine.resources
+C:\Users\Hernan\Desktop\Lottery_Newest1_4_1\TicketOffice\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Hernan\Desktop\Lottery_Newest1_4_1\TicketOffice\obj\Debug\TIcketOffice.csproj.GenerateResource.Cache
+C:\Users\Hernan\Desktop\Lottery_Newest1_5\TicketOffice\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Hernan\Desktop\Lottery_Newest1_5\TicketOffice\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Hernan\Desktop\Lottery_Newest1_5\TicketOffice\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Hernan\Desktop\Lottery_Newest1_5\TicketOffice\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Hernan\Desktop\Lottery_Newest1_5\TicketOffice\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Hernan\Desktop\Lottery_Newest1_5\TicketOffice\obj\Debug\TIcketOffice.csprojResolveAssemblyReference.cache
+C:\Users\Hernan\Desktop\Lottery_Newest1_5\TicketOffice\obj\Debug\TicketOffice.Ticket.resources
+C:\Users\Hernan\Desktop\Lottery_Newest1_5\TicketOffice\obj\Debug\TicketOffice.TicketMachine.resources
+C:\Users\Hernan\Desktop\Lottery_Newest1_5\TicketOffice\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Hernan\Desktop\Lottery_Newest1_5\TicketOffice\obj\Debug\TIcketOffice.csproj.GenerateResource.Cache
+C:\Users\Hernan\Desktop\Lottery_Newest1_5_1\TicketOffice\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Hernan\Desktop\Lottery_Newest1_5_1\TicketOffice\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Hernan\Desktop\Lottery_Newest1_5_1\TicketOffice\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Hernan\Desktop\Lottery_Newest1_5_1\TicketOffice\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Hernan\Desktop\Lottery_Newest1_5_1\TicketOffice\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Hernan\Desktop\Lottery_Newest1_5_1\TicketOffice\obj\Debug\TIcketOffice.csprojResolveAssemblyReference.cache
+C:\Users\Hernan\Desktop\Lottery_Newest1_5_1\TicketOffice\obj\Debug\TicketOffice.Ticket.resources
+C:\Users\Hernan\Desktop\Lottery_Newest1_5_1\TicketOffice\obj\Debug\TicketOffice.TicketMachine.resources
+C:\Users\Hernan\Desktop\Lottery_Newest1_5_1\TicketOffice\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Hernan\Desktop\Lottery_Newest1_5_1\TicketOffice\obj\Debug\TIcketOffice.csproj.GenerateResource.Cache
+E:\Lottery_Newest1_5_2\TicketOffice\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Lottery_Newest1_5_2\TicketOffice\obj\Debug\WindowsFormsApplication1.exe
+E:\Lottery_Newest1_5_2\TicketOffice\obj\Debug\WindowsFormsApplication1.pdb
+E:\Lottery_Newest1_5_2\TicketOffice\bin\Debug\WindowsFormsApplication1.exe
+E:\Lottery_Newest1_5_2\TicketOffice\bin\Debug\WindowsFormsApplication1.pdb
+E:\Lottery_Newest1_5_2\TicketOffice\obj\Debug\TIcketOffice.csprojResolveAssemblyReference.cache
+E:\Lottery_Newest1_5_2\TicketOffice\obj\Debug\TicketOffice.Ticket.resources
+E:\Lottery_Newest1_5_2\TicketOffice\obj\Debug\TicketOffice.TicketMachine.resources
+E:\Lottery_Newest1_5_2\TicketOffice\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Lottery_Newest1_5_2\TicketOffice\obj\Debug\TIcketOffice.csproj.GenerateResource.Cache
+C:\Users\Hernan\Desktop\Lottery_Newest1_5_2\TicketOffice\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Hernan\Desktop\Lottery_Newest1_5_2\TicketOffice\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Hernan\Desktop\Lottery_Newest1_5_2\TicketOffice\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Hernan\Desktop\Lottery_Newest1_5_2\TicketOffice\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Hernan\Desktop\Lottery_Newest1_5_2\TicketOffice\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Hernan\Desktop\Lottery_Newest1_5_2\TicketOffice\obj\Debug\TIcketOffice.csprojResolveAssemblyReference.cache
+C:\Users\Hernan\Desktop\Lottery_Newest1_5_2\TicketOffice\obj\Debug\TicketOffice.Ticket.resources
+C:\Users\Hernan\Desktop\Lottery_Newest1_5_2\TicketOffice\obj\Debug\TicketOffice.TicketMachine.resources
+C:\Users\Hernan\Desktop\Lottery_Newest1_5_2\TicketOffice\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Hernan\Desktop\Lottery_Newest1_5_2\TicketOffice\obj\Debug\TIcketOffice.csproj.GenerateResource.Cache
+C:\Users\Hernan\Desktop\Lottery_Newest1_5_3\TicketOffice\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Hernan\Desktop\Lottery_Newest1_5_3\TicketOffice\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Hernan\Desktop\Lottery_Newest1_5_3\TicketOffice\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Hernan\Desktop\Lottery_Newest1_5_3\TicketOffice\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Hernan\Desktop\Lottery_Newest1_5_3\TicketOffice\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Hernan\Desktop\Lottery_Newest1_5_3\TicketOffice\obj\Debug\TIcketOffice.csprojResolveAssemblyReference.cache
+C:\Users\Hernan\Desktop\Lottery_Newest1_5_3\TicketOffice\obj\Debug\TicketOffice.Ticket.resources
+C:\Users\Hernan\Desktop\Lottery_Newest1_5_3\TicketOffice\obj\Debug\TicketOffice.TicketMachine.resources
+C:\Users\Hernan\Desktop\Lottery_Newest1_5_3\TicketOffice\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Hernan\Desktop\Lottery_Newest1_5_3\TicketOffice\obj\Debug\TIcketOffice.csproj.GenerateResource.Cache
+C:\Users\Hernan\Desktop\Lottery_Newest1_5_4\TicketOffice\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Hernan\Desktop\Lottery_Newest1_5_4\TicketOffice\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Hernan\Desktop\Lottery_Newest1_5_4\TicketOffice\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Hernan\Desktop\Lottery_Newest1_5_4\TicketOffice\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Hernan\Desktop\Lottery_Newest1_5_4\TicketOffice\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Hernan\Desktop\Lottery_Newest1_5_4\TicketOffice\obj\Debug\TIcketOffice.csprojResolveAssemblyReference.cache
+C:\Users\Hernan\Desktop\Lottery_Newest1_5_4\TicketOffice\obj\Debug\TicketOffice.Ticket.resources
+C:\Users\Hernan\Desktop\Lottery_Newest1_5_4\TicketOffice\obj\Debug\TicketOffice.TicketMachine.resources
+C:\Users\Hernan\Desktop\Lottery_Newest1_5_4\TicketOffice\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Hernan\Desktop\Lottery_Newest1_5_4\TicketOffice\obj\Debug\TIcketOffice.csproj.GenerateResource.Cache
+B:\Systems Programming\Lottery_Newest1_5_5\TicketOffice\bin\Debug\WindowsFormsApplication1.exe.config
+B:\Systems Programming\Lottery_Newest1_5_5\TicketOffice\obj\Debug\WindowsFormsApplication1.exe
+B:\Systems Programming\Lottery_Newest1_5_5\TicketOffice\obj\Debug\WindowsFormsApplication1.pdb
+B:\Systems Programming\Lottery_Newest1_5_5\TicketOffice\bin\Debug\WindowsFormsApplication1.exe
+B:\Systems Programming\Lottery_Newest1_5_5\TicketOffice\bin\Debug\WindowsFormsApplication1.pdb
+B:\Systems Programming\Lottery_Newest1_5_5\TicketOffice\obj\Debug\TIcketOffice.csprojResolveAssemblyReference.cache
+B:\Systems Programming\Lottery_Newest1_5_5\TicketOffice\obj\Debug\TicketOffice.Ticket.resources
+B:\Systems Programming\Lottery_Newest1_5_5\TicketOffice\obj\Debug\TicketOffice.TicketMachine.resources
+B:\Systems Programming\Lottery_Newest1_5_5\TicketOffice\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+B:\Systems Programming\Lottery_Newest1_5_5\TicketOffice\obj\Debug\TIcketOffice.csproj.GenerateResource.Cache

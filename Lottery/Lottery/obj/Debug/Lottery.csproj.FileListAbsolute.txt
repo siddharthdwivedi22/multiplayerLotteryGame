@@ -1,0 +1,209 @@
+B:\Systems Programming\Lottery\Lottery\bin\Debug\Lottery.exe.config
+B:\Systems Programming\Lottery\Lottery\bin\Debug\Lottery.exe
+B:\Systems Programming\Lottery\Lottery\bin\Debug\Lottery.pdb
+B:\Systems Programming\Lottery\Lottery\obj\Debug\Lottery.csprojResolveAssemblyReference.cache
+B:\Systems Programming\Lottery\Lottery\obj\Debug\Lottery.Form1.resources
+B:\Systems Programming\Lottery\Lottery\obj\Debug\Lottery.Properties.Resources.resources
+B:\Systems Programming\Lottery\Lottery\obj\Debug\Lottery.csproj.GenerateResource.Cache
+B:\Systems Programming\Lottery\Lottery\obj\Debug\Lottery.exe
+B:\Systems Programming\Lottery\Lottery\obj\Debug\Lottery.pdb
+C:\Users\Hernan\OneDrive\Greenwich\VisulaStudio\Lottery\Lottery\bin\Debug\Lottery.exe.config
+C:\Users\Hernan\OneDrive\Greenwich\VisulaStudio\Lottery\Lottery\obj\Debug\Lottery.exe
+C:\Users\Hernan\OneDrive\Greenwich\VisulaStudio\Lottery\Lottery\obj\Debug\Lottery.pdb
+C:\Users\Hernan\OneDrive\Greenwich\VisulaStudio\Lottery\Lottery\bin\Debug\Lottery.exe
+C:\Users\Hernan\OneDrive\Greenwich\VisulaStudio\Lottery\Lottery\bin\Debug\Lottery.pdb
+C:\Users\Hernan\OneDrive\Greenwich\VisulaStudio\Lottery\Lottery\obj\Debug\Lottery.csprojResolveAssemblyReference.cache
+C:\Users\Hernan\OneDrive\Greenwich\VisulaStudio\Lottery\Lottery\obj\Debug\Lottery.Form1.resources
+C:\Users\Hernan\OneDrive\Greenwich\VisulaStudio\Lottery\Lottery\obj\Debug\Lottery.Properties.Resources.resources
+C:\Users\Hernan\OneDrive\Greenwich\VisulaStudio\Lottery\Lottery\obj\Debug\Lottery.csproj.GenerateResource.Cache
+C:\Users\acer-pc\Google Drive\SysProg\Lottery\Lottery\bin\Debug\Lottery.exe.config
+C:\Users\acer-pc\Google Drive\SysProg\Lottery\Lottery\obj\Debug\Lottery.exe
+C:\Users\acer-pc\Google Drive\SysProg\Lottery\Lottery\obj\Debug\Lottery.pdb
+B:\Google drive-sysprog\Lottery\Lottery\bin\Debug\Lottery.exe.config
+B:\Google drive-sysprog\Lottery\Lottery\obj\Debug\Lottery.exe
+B:\Google drive-sysprog\Lottery\Lottery\obj\Debug\Lottery.pdb
+B:\Google drive-sysprog\Lottery\Lottery\bin\Debug\Lottery.exe
+B:\Google drive-sysprog\Lottery\Lottery\bin\Debug\Lottery.pdb
+B:\Google drive-sysprog\Lottery\Lottery\obj\Debug\Lottery.csprojResolveAssemblyReference.cache
+B:\Google drive-sysprog\Lottery\Lottery\obj\Debug\Lottery.Form1.resources
+B:\Google drive-sysprog\Lottery\Lottery\obj\Debug\Lottery.Properties.Resources.resources
+B:\Google drive-sysprog\Lottery\Lottery\obj\Debug\Lottery.csproj.GenerateResource.Cache
+C:\Users\Hernan\Desktop\Lottery_Newest\Lottery\Lottery\bin\Debug\Lottery.exe.config
+C:\Users\Hernan\Desktop\Lottery_Newest\Lottery\Lottery\obj\Debug\Lottery.exe
+C:\Users\Hernan\Desktop\Lottery_Newest\Lottery\Lottery\obj\Debug\Lottery.pdb
+C:\Users\Hernan\Desktop\Lottery_Newest\Lottery\Lottery\bin\Debug\Lottery.exe
+C:\Users\Hernan\Desktop\Lottery_Newest\Lottery\Lottery\bin\Debug\Lottery.pdb
+C:\Users\Hernan\Desktop\Lottery_Newest\Lottery\Lottery\obj\Debug\Lottery.csprojResolveAssemblyReference.cache
+C:\Users\Hernan\Desktop\Lottery_Newest\Lottery\Lottery\obj\Debug\Lottery.Form1.resources
+C:\Users\Hernan\Desktop\Lottery_Newest\Lottery\Lottery\obj\Debug\Lottery.Properties.Resources.resources
+C:\Users\Hernan\Desktop\Lottery_Newest\Lottery\Lottery\obj\Debug\Lottery.csproj.GenerateResource.Cache
+C:\Users\Hernan\Desktop\Lottery_Newest\Lottery\Lottery\bin\Debug\Lotto.mdb
+C:\Users\Hernan\Desktop\Lottery_Newest1\Lottery\Lottery\bin\Debug\Lottery.exe.config
+C:\Users\Hernan\Desktop\Lottery_Newest1\Lottery\Lottery\obj\Debug\Lottery.exe
+C:\Users\Hernan\Desktop\Lottery_Newest1\Lottery\Lottery\obj\Debug\Lottery.pdb
+C:\Users\Hernan\Desktop\Lottery_Newest1\Lottery\Lottery\bin\Debug\Lotto.mdb
+C:\Users\Hernan\Desktop\Lottery_Newest1\Lottery\Lottery\bin\Debug\Lottery.exe
+C:\Users\Hernan\Desktop\Lottery_Newest1\Lottery\Lottery\bin\Debug\Lottery.pdb
+C:\Users\Hernan\Desktop\Lottery_Newest1\Lottery\Lottery\obj\Debug\Lottery.csprojResolveAssemblyReference.cache
+C:\Users\Hernan\Desktop\Lottery_Newest1\Lottery\Lottery\obj\Debug\Lottery.Form1.resources
+C:\Users\Hernan\Desktop\Lottery_Newest1\Lottery\Lottery\obj\Debug\Lottery.Properties.Resources.resources
+C:\Users\Hernan\Desktop\Lottery_Newest1\Lottery\Lottery\obj\Debug\Lottery.csproj.GenerateResource.Cache
+C:\Users\herna\OneDrive\Greenwich\VisulaStudio\Lottery_Newest1\Lottery\Lottery\bin\Debug\Lottery.exe.config
+C:\Users\herna\OneDrive\Greenwich\VisulaStudio\Lottery_Newest1\Lottery\Lottery\obj\Debug\Lottery.exe
+C:\Users\herna\OneDrive\Greenwich\VisulaStudio\Lottery_Newest1\Lottery\Lottery\obj\Debug\Lottery.pdb
+C:\Users\herna\OneDrive\Greenwich\VisulaStudio\Lottery_Newest1\Lottery\Lottery\obj\Debug\Lottery.csprojResolveAssemblyReference.cache
+C:\Users\herna\OneDrive\Greenwich\VisulaStudio\Lottery_Newest1\Lottery\Lottery\obj\Debug\Lottery.Form1.resources
+C:\Users\herna\OneDrive\Greenwich\VisulaStudio\Lottery_Newest1\Lottery\Lottery\obj\Debug\Lottery.Properties.Resources.resources
+C:\Users\herna\OneDrive\Greenwich\VisulaStudio\Lottery_Newest1\Lottery\Lottery\obj\Debug\Lottery.csproj.GenerateResource.Cache
+C:\Users\herna\OneDrive\Greenwich\VisulaStudio\Lottery_Newest1\Lottery\Lottery\bin\Debug\Lotto.mdb
+C:\Users\herna\OneDrive\Greenwich\VisulaStudio\Lottery_Newest1\Lottery\Lottery\bin\Debug\Lottery.exe
+C:\Users\herna\OneDrive\Greenwich\VisulaStudio\Lottery_Newest1\Lottery\Lottery\bin\Debug\Lottery.pdb
+C:\Users\Hernan\OneDrive\Greenwich\VisulaStudio\Lottery_Newest1\Lottery\Lottery\bin\Debug\Lottery.exe.config
+C:\Users\Hernan\OneDrive\Greenwich\VisulaStudio\Lottery_Newest1\Lottery\Lottery\obj\Debug\Lottery.exe
+C:\Users\Hernan\OneDrive\Greenwich\VisulaStudio\Lottery_Newest1\Lottery\Lottery\obj\Debug\Lottery.pdb
+C:\Users\Hernan\OneDrive\Greenwich\VisulaStudio\Lottery_Newest1\Lottery\Lottery\obj\Debug\Lottery.csprojResolveAssemblyReference.cache
+C:\Users\Hernan\OneDrive\Greenwich\VisulaStudio\Lottery_Newest1\Lottery\Lottery\obj\Debug\Lottery.Form1.resources
+C:\Users\Hernan\OneDrive\Greenwich\VisulaStudio\Lottery_Newest1\Lottery\Lottery\obj\Debug\Lottery.Properties.Resources.resources
+C:\Users\Hernan\OneDrive\Greenwich\VisulaStudio\Lottery_Newest1\Lottery\Lottery\obj\Debug\Lottery.csproj.GenerateResource.Cache
+C:\Users\Hernan\OneDrive\Greenwich\VisulaStudio\Lottery_Newest1\Lottery\Lottery\bin\Debug\Lotto.mdb
+C:\Users\Hernan\OneDrive\Greenwich\VisulaStudio\Lottery_Newest1\Lottery\Lottery\bin\Debug\Lottery.exe
+C:\Users\Hernan\OneDrive\Greenwich\VisulaStudio\Lottery_Newest1\Lottery\Lottery\bin\Debug\Lottery.pdb
+G:\Lottery_Newest1\Lottery\Lottery\bin\Debug\Lottery.exe.config
+G:\Lottery_Newest1\Lottery\Lottery\obj\Debug\Lottery.exe
+G:\Lottery_Newest1\Lottery\Lottery\obj\Debug\Lottery.pdb
+G:\Lottery_Newest1\Lottery\Lottery\bin\Debug\Lottery.exe
+G:\Lottery_Newest1\Lottery\Lottery\bin\Debug\Lottery.pdb
+G:\Lottery_Newest1\Lottery\Lottery\obj\Debug\Lottery.csprojResolveAssemblyReference.cache
+G:\Lottery_Newest1\Lottery\Lottery\obj\Debug\Lottery.Form1.resources
+G:\Lottery_Newest1\Lottery\Lottery\obj\Debug\Lottery.Properties.Resources.resources
+G:\Lottery_Newest1\Lottery\Lottery\obj\Debug\Lottery.csproj.GenerateResource.Cache
+G:\Lottery_Newest1_1\Lottery\Lottery\bin\Debug\Lottery.exe.config
+G:\Lottery_Newest1_1\Lottery\Lottery\obj\Debug\Lottery.exe
+G:\Lottery_Newest1_1\Lottery\Lottery\obj\Debug\Lottery.pdb
+G:\Lottery_Newest1_1\Lottery\Lottery\bin\Debug\Lottery.exe
+G:\Lottery_Newest1_1\Lottery\Lottery\bin\Debug\Lottery.pdb
+G:\Lottery_Newest1_1\Lottery\Lottery\obj\Debug\Lottery.csprojResolveAssemblyReference.cache
+G:\Lottery_Newest1_1\Lottery\Lottery\obj\Debug\Lottery.Form1.resources
+G:\Lottery_Newest1_1\Lottery\Lottery\obj\Debug\Lottery.Properties.Resources.resources
+G:\Lottery_Newest1_1\Lottery\Lottery\obj\Debug\Lottery.csproj.GenerateResource.Cache
+G:\Lottery_Newest1_2\Lottery\Lottery\bin\Debug\Lottery.exe.config
+G:\Lottery_Newest1_2\Lottery\Lottery\obj\Debug\Lottery.exe
+G:\Lottery_Newest1_2\Lottery\Lottery\obj\Debug\Lottery.pdb
+G:\Lottery_Newest1_2\Lottery\Lottery\bin\Debug\Lottery.exe
+G:\Lottery_Newest1_2\Lottery\Lottery\bin\Debug\Lottery.pdb
+G:\Lottery_Newest1_2\Lottery\Lottery\obj\Debug\Lottery.csprojResolveAssemblyReference.cache
+G:\Lottery_Newest1_2\Lottery\Lottery\obj\Debug\Lottery.Form1.resources
+G:\Lottery_Newest1_2\Lottery\Lottery\obj\Debug\Lottery.Properties.Resources.resources
+G:\Lottery_Newest1_2\Lottery\Lottery\obj\Debug\Lottery.csproj.GenerateResource.Cache
+C:\Users\Hernan\Desktop\Lottery_Newest1_2\Lottery\Lottery\bin\Debug\Lottery.exe.config
+C:\Users\Hernan\Desktop\Lottery_Newest1_2\Lottery\Lottery\obj\Debug\Lottery.exe
+C:\Users\Hernan\Desktop\Lottery_Newest1_2\Lottery\Lottery\obj\Debug\Lottery.pdb
+C:\Users\Hernan\Desktop\Lottery_Newest1_2\Lottery\Lottery\bin\Debug\Lottery.exe
+C:\Users\Hernan\Desktop\Lottery_Newest1_2\Lottery\Lottery\bin\Debug\Lottery.pdb
+C:\Users\Hernan\Desktop\Lottery_Newest1_2\Lottery\Lottery\obj\Debug\Lottery.csprojResolveAssemblyReference.cache
+C:\Users\Hernan\Desktop\Lottery_Newest1_2\Lottery\Lottery\obj\Debug\Lottery.Form1.resources
+C:\Users\Hernan\Desktop\Lottery_Newest1_2\Lottery\Lottery\obj\Debug\Lottery.Properties.Resources.resources
+C:\Users\Hernan\Desktop\Lottery_Newest1_2\Lottery\Lottery\obj\Debug\Lottery.csproj.GenerateResource.Cache
+C:\Users\Hernan\Desktop\Lottery_Newest1_3\Lottery\Lottery\bin\Debug\Lottery.exe.config
+C:\Users\Hernan\Desktop\Lottery_Newest1_3\Lottery\Lottery\obj\Debug\Lottery.exe
+C:\Users\Hernan\Desktop\Lottery_Newest1_3\Lottery\Lottery\obj\Debug\Lottery.pdb
+C:\Users\Hernan\Desktop\Lottery_Newest1_3\Lottery\Lottery\bin\Debug\Lottery.exe
+C:\Users\Hernan\Desktop\Lottery_Newest1_3\Lottery\Lottery\bin\Debug\Lottery.pdb
+C:\Users\Hernan\Desktop\Lottery_Newest1_3\Lottery\Lottery\obj\Debug\Lottery.csprojResolveAssemblyReference.cache
+C:\Users\Hernan\Desktop\Lottery_Newest1_3\Lottery\Lottery\obj\Debug\Lottery.Form1.resources
+C:\Users\Hernan\Desktop\Lottery_Newest1_3\Lottery\Lottery\obj\Debug\Lottery.Properties.Resources.resources
+C:\Users\Hernan\Desktop\Lottery_Newest1_3\Lottery\Lottery\obj\Debug\Lottery.csproj.GenerateResource.Cache
+C:\Users\Hernan\Desktop\Lottery_Newest1_3_1\Lottery\Lottery\bin\Debug\Lottery.exe.config
+C:\Users\Hernan\Desktop\Lottery_Newest1_3_1\Lottery\Lottery\obj\Debug\Lottery.exe
+C:\Users\Hernan\Desktop\Lottery_Newest1_3_1\Lottery\Lottery\obj\Debug\Lottery.pdb
+C:\Users\Hernan\Desktop\Lottery_Newest1_3_1\Lottery\Lottery\bin\Debug\Lottery.exe
+C:\Users\Hernan\Desktop\Lottery_Newest1_3_1\Lottery\Lottery\bin\Debug\Lottery.pdb
+C:\Users\Hernan\Desktop\Lottery_Newest1_3_1\Lottery\Lottery\obj\Debug\Lottery.csprojResolveAssemblyReference.cache
+C:\Users\Hernan\Desktop\Lottery_Newest1_3_1\Lottery\Lottery\obj\Debug\Lottery.Properties.Resources.resources
+C:\Users\Hernan\Desktop\Lottery_Newest1_3_1\Lottery\Lottery\obj\Debug\Lottery.csproj.GenerateResource.Cache
+C:\Users\Hernan\Desktop\Lottery_Newest1_3_1\Lottery\Lottery\obj\Debug\Lottery.LotteryServer.resources
+C:\Users\Hernan\Google Drive\SysProg\Lottery_Newest1_3_1\Lottery\Lottery\bin\Debug\Lottery.exe.config
+C:\Users\Hernan\Google Drive\SysProg\Lottery_Newest1_3_1\Lottery\Lottery\obj\Debug\Lottery.exe
+C:\Users\Hernan\Google Drive\SysProg\Lottery_Newest1_3_1\Lottery\Lottery\obj\Debug\Lottery.pdb
+C:\Users\Hernan\Google Drive\SysProg\Lottery_Newest1_3_1\Lottery\Lottery\bin\Debug\Lottery.exe
+C:\Users\Hernan\Google Drive\SysProg\Lottery_Newest1_3_1\Lottery\Lottery\bin\Debug\Lottery.pdb
+C:\Users\Hernan\Google Drive\SysProg\Lottery_Newest1_3_1\Lottery\Lottery\obj\Debug\Lottery.csprojResolveAssemblyReference.cache
+C:\Users\Hernan\Google Drive\SysProg\Lottery_Newest1_3_1\Lottery\Lottery\obj\Debug\Lottery.LotteryServer.resources
+C:\Users\Hernan\Google Drive\SysProg\Lottery_Newest1_3_1\Lottery\Lottery\obj\Debug\Lottery.Properties.Resources.resources
+C:\Users\Hernan\Google Drive\SysProg\Lottery_Newest1_3_1\Lottery\Lottery\obj\Debug\Lottery.csproj.GenerateResource.Cache
+C:\Users\Hernan\Desktop\Lottery_Newest1_4_1\Lottery\Lottery\bin\Debug\Lottery.exe.config
+C:\Users\Hernan\Desktop\Lottery_Newest1_4_1\Lottery\Lottery\obj\Debug\Lottery.exe
+C:\Users\Hernan\Desktop\Lottery_Newest1_4_1\Lottery\Lottery\obj\Debug\Lottery.pdb
+C:\Users\Hernan\Desktop\Lottery_Newest1_4_1\Lottery\Lottery\bin\Debug\Lottery.exe
+C:\Users\Hernan\Desktop\Lottery_Newest1_4_1\Lottery\Lottery\bin\Debug\Lottery.pdb
+C:\Users\Hernan\Desktop\Lottery_Newest1_4_1\Lottery\Lottery\obj\Debug\Lottery.csprojResolveAssemblyReference.cache
+C:\Users\Hernan\Desktop\Lottery_Newest1_4_1\Lottery\Lottery\obj\Debug\Lottery.LotteryServer.resources
+C:\Users\Hernan\Desktop\Lottery_Newest1_4_1\Lottery\Lottery\obj\Debug\Lottery.Properties.Resources.resources
+C:\Users\Hernan\Desktop\Lottery_Newest1_4_1\Lottery\Lottery\obj\Debug\Lottery.csproj.GenerateResource.Cache
+C:\Users\Hernan\Desktop\Lottery_Newest1_5\Lottery\Lottery\bin\Debug\Lottery.exe.config
+C:\Users\Hernan\Desktop\Lottery_Newest1_5\Lottery\Lottery\obj\Debug\Lottery.exe
+C:\Users\Hernan\Desktop\Lottery_Newest1_5\Lottery\Lottery\obj\Debug\Lottery.pdb
+C:\Users\Hernan\Desktop\Lottery_Newest1_5\Lottery\Lottery\bin\Debug\Lottery.exe
+C:\Users\Hernan\Desktop\Lottery_Newest1_5\Lottery\Lottery\bin\Debug\Lottery.pdb
+C:\Users\Hernan\Desktop\Lottery_Newest1_5\Lottery\Lottery\obj\Debug\Lottery.csprojResolveAssemblyReference.cache
+C:\Users\Hernan\Desktop\Lottery_Newest1_5\Lottery\Lottery\obj\Debug\Lottery.LotteryServer.resources
+C:\Users\Hernan\Desktop\Lottery_Newest1_5\Lottery\Lottery\obj\Debug\Lottery.Properties.Resources.resources
+C:\Users\Hernan\Desktop\Lottery_Newest1_5\Lottery\Lottery\obj\Debug\Lottery.csproj.GenerateResource.Cache
+C:\Users\Hernan\Desktop\Lottery_Newest1_5_1\Lottery\Lottery\bin\Debug\Lottery.exe.config
+C:\Users\Hernan\Desktop\Lottery_Newest1_5_1\Lottery\Lottery\obj\Debug\Lottery.exe
+C:\Users\Hernan\Desktop\Lottery_Newest1_5_1\Lottery\Lottery\obj\Debug\Lottery.pdb
+C:\Users\Hernan\Desktop\Lottery_Newest1_5_1\Lottery\Lottery\bin\Debug\Lottery.exe
+C:\Users\Hernan\Desktop\Lottery_Newest1_5_1\Lottery\Lottery\bin\Debug\Lottery.pdb
+C:\Users\Hernan\Desktop\Lottery_Newest1_5_1\Lottery\Lottery\obj\Debug\Lottery.csprojResolveAssemblyReference.cache
+C:\Users\Hernan\Desktop\Lottery_Newest1_5_1\Lottery\Lottery\obj\Debug\Lottery.LotteryServer.resources
+C:\Users\Hernan\Desktop\Lottery_Newest1_5_1\Lottery\Lottery\obj\Debug\Lottery.Properties.Resources.resources
+C:\Users\Hernan\Desktop\Lottery_Newest1_5_1\Lottery\Lottery\obj\Debug\Lottery.csproj.GenerateResource.Cache
+E:\Lottery_Newest1_5_2\Lottery\Lottery\bin\Debug\Lottery.exe.config
+E:\Lottery_Newest1_5_2\Lottery\Lottery\obj\Debug\Lottery.exe
+E:\Lottery_Newest1_5_2\Lottery\Lottery\obj\Debug\Lottery.pdb
+E:\Lottery_Newest1_5_2\Lottery\Lottery\bin\Debug\Lottery.exe
+E:\Lottery_Newest1_5_2\Lottery\Lottery\bin\Debug\Lottery.pdb
+E:\Lottery_Newest1_5_2\Lottery\Lottery\obj\Debug\Lottery.csprojResolveAssemblyReference.cache
+E:\Lottery_Newest1_5_2\Lottery\Lottery\obj\Debug\Lottery.LotteryServer.resources
+E:\Lottery_Newest1_5_2\Lottery\Lottery\obj\Debug\Lottery.Properties.Resources.resources
+E:\Lottery_Newest1_5_2\Lottery\Lottery\obj\Debug\Lottery.csproj.GenerateResource.Cache
+C:\Users\Hernan\Desktop\Lottery_Newest1_5_2\Lottery\Lottery\bin\Debug\Lottery.exe.config
+C:\Users\Hernan\Desktop\Lottery_Newest1_5_2\Lottery\Lottery\obj\Debug\Lottery.exe
+C:\Users\Hernan\Desktop\Lottery_Newest1_5_2\Lottery\Lottery\obj\Debug\Lottery.pdb
+C:\Users\Hernan\Desktop\Lottery_Newest1_5_2\Lottery\Lottery\bin\Debug\Lottery.exe
+C:\Users\Hernan\Desktop\Lottery_Newest1_5_2\Lottery\Lottery\bin\Debug\Lottery.pdb
+C:\Users\Hernan\Desktop\Lottery_Newest1_5_2\Lottery\Lottery\obj\Debug\Lottery.csprojResolveAssemblyReference.cache
+C:\Users\Hernan\Desktop\Lottery_Newest1_5_2\Lottery\Lottery\obj\Debug\Lottery.LotteryServer.resources
+C:\Users\Hernan\Desktop\Lottery_Newest1_5_2\Lottery\Lottery\obj\Debug\Lottery.Properties.Resources.resources
+C:\Users\Hernan\Desktop\Lottery_Newest1_5_2\Lottery\Lottery\obj\Debug\Lottery.csproj.GenerateResource.Cache
+C:\Users\Hernan\Desktop\Lottery_Newest1_5_2\Lottery\Lottery\obj\Debug\Lottery.ConectionMessage.resources
+C:\Users\Hernan\Desktop\Lottery_Newest1_5_3\Lottery\Lottery\bin\Debug\Lottery.exe.config
+C:\Users\Hernan\Desktop\Lottery_Newest1_5_3\Lottery\Lottery\obj\Debug\Lottery.exe
+C:\Users\Hernan\Desktop\Lottery_Newest1_5_3\Lottery\Lottery\obj\Debug\Lottery.pdb
+C:\Users\Hernan\Desktop\Lottery_Newest1_5_3\Lottery\Lottery\bin\Debug\Lottery.exe
+C:\Users\Hernan\Desktop\Lottery_Newest1_5_3\Lottery\Lottery\bin\Debug\Lottery.pdb
+C:\Users\Hernan\Desktop\Lottery_Newest1_5_3\Lottery\Lottery\obj\Debug\Lottery.csprojResolveAssemblyReference.cache
+C:\Users\Hernan\Desktop\Lottery_Newest1_5_3\Lottery\Lottery\obj\Debug\Lottery.ConectionMessage.resources
+C:\Users\Hernan\Desktop\Lottery_Newest1_5_3\Lottery\Lottery\obj\Debug\Lottery.LotteryServer.resources
+C:\Users\Hernan\Desktop\Lottery_Newest1_5_3\Lottery\Lottery\obj\Debug\Lottery.Properties.Resources.resources
+C:\Users\Hernan\Desktop\Lottery_Newest1_5_3\Lottery\Lottery\obj\Debug\Lottery.csproj.GenerateResource.Cache
+C:\Users\Hernan\Desktop\Lottery_Newest1_5_4\Lottery\Lottery\bin\Debug\Lottery.exe.config
+C:\Users\Hernan\Desktop\Lottery_Newest1_5_4\Lottery\Lottery\obj\Debug\Lottery.exe
+C:\Users\Hernan\Desktop\Lottery_Newest1_5_4\Lottery\Lottery\obj\Debug\Lottery.pdb
+C:\Users\Hernan\Desktop\Lottery_Newest1_5_4\Lottery\Lottery\bin\Debug\Lottery.exe
+C:\Users\Hernan\Desktop\Lottery_Newest1_5_4\Lottery\Lottery\bin\Debug\Lottery.pdb
+C:\Users\Hernan\Desktop\Lottery_Newest1_5_4\Lottery\Lottery\obj\Debug\Lottery.csprojResolveAssemblyReference.cache
+C:\Users\Hernan\Desktop\Lottery_Newest1_5_4\Lottery\Lottery\obj\Debug\Lottery.ConectionMessage.resources
+C:\Users\Hernan\Desktop\Lottery_Newest1_5_4\Lottery\Lottery\obj\Debug\Lottery.LotteryServer.resources
+C:\Users\Hernan\Desktop\Lottery_Newest1_5_4\Lottery\Lottery\obj\Debug\Lottery.Properties.Resources.resources
+C:\Users\Hernan\Desktop\Lottery_Newest1_5_4\Lottery\Lottery\obj\Debug\Lottery.csproj.GenerateResource.Cache
+B:\Systems Programming\Lottery_Newest1_5_5\Lottery\Lottery\bin\Debug\Lottery.exe.config
+B:\Systems Programming\Lottery_Newest1_5_5\Lottery\Lottery\obj\Debug\Lottery.exe
+B:\Systems Programming\Lottery_Newest1_5_5\Lottery\Lottery\obj\Debug\Lottery.pdb
+B:\Systems Programming\Lottery_Newest1_5_5\Lottery\Lottery\bin\Debug\Lottery.exe
+B:\Systems Programming\Lottery_Newest1_5_5\Lottery\Lottery\bin\Debug\Lottery.pdb
+B:\Systems Programming\Lottery_Newest1_5_5\Lottery\Lottery\obj\Debug\Lottery.csprojResolveAssemblyReference.cache
+B:\Systems Programming\Lottery_Newest1_5_5\Lottery\Lottery\obj\Debug\Lottery.ConectionMessage.resources
+B:\Systems Programming\Lottery_Newest1_5_5\Lottery\Lottery\obj\Debug\Lottery.LotteryServer.resources
+B:\Systems Programming\Lottery_Newest1_5_5\Lottery\Lottery\obj\Debug\Lottery.Properties.Resources.resources
+B:\Systems Programming\Lottery_Newest1_5_5\Lottery\Lottery\obj\Debug\Lottery.csproj.GenerateResource.Cache
